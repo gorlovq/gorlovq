@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Sergey 👋
 
-<!--
-**gxrlxv/gxrlxv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_________________
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on music service Musique
+- 🌱 I’m currently learning Go and microservice architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+_________________
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gxrlxv&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gxrlxv&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gxrlxv&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gxrlxv&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gxrlxv&theme=github_dark)
