@@ -1,6 +1,5 @@
 ### Hi there, I'm Sergey 👋
 
-_________________
 
 - 🔭 I’m currently working on music service Musique
 - 🌱 I’m currently learning Go and microservice architecture
