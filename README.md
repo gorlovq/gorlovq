@@ -1,7 +1,7 @@
 ### Hi there, I'm Sergey 👋
 
 
-- 🔭 I’m currently working on music service Musique
+- :briefcase: I’m currently working in [Decide!](https://decide-career.com/)
 - 🌱 I’m currently learning Go and microservice architecture
 _________________
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=gxrlxv&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
