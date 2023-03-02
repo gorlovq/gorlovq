@@ -1,7 +1,7 @@
 ### Hi there, I'm Sergey 👋
 
 
-- :technologist: Go developer in Sber
+- :technologist: Go developer at Sber
 - :books: Student at Mirea Technological University
 _________________
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=gxrlxv&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
