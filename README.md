@@ -1,4 +1,4 @@
-### Hi there, I'm Sergey 👋
+### Hi there, I'm Sergei 👋
 
 
 - :technologist: Go Software Engineer.
