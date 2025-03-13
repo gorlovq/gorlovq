@@ -1,6 +1,2 @@
-### Hi there, I'm Sergei 👋
 
-
-- :technologist: Go Software Engineer.
-- :envelope: Contact me [telegram](https://t.me/gorlovq)
-
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
