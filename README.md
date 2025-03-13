@@ -2,5 +2,5 @@
 
 
 - :technologist: Go Software Engineer.
-- :envelope: Contact me [telegram](https://t.me/gxrlxv)
+- :envelope: Contact me [telegram](https://t.me/gorlovq)
 
